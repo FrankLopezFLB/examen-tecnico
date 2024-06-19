@@ -1,0 +1,8 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úşÿøÿÿÿÿJ$84991fef-789c-4653-b5d9-ff866ea24c5d
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$5ec8b28c-7591-4dd7-b94e-f8765c0774ef
+h
+java:S1905"'Remove this unnecessary cast to "long".(½Ğ”ÀşÿÿÿÿJ$8be501d3-3958-4b54-b53e-35c7097be7f8
+e
+java:S1905")Remove this unnecessary cast to "byte[]".(øÕÚ¶J$9394fa81-04a0-4761-bec7-f1f3b19c858a

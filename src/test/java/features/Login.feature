@@ -3,7 +3,7 @@
 Característica: Login User
 
   @caso-1
-  Esquema del escenario: Validar que el usuario se encuentre logged
+  Esquema del escenario: Validar que el correcto flujo de Login
     Dado que el usuario ingresa al aplicativo
     Cuando el "<user>" ingresa en el modal de Login
     Y ingresa la contrasena "<pass>" en el modal de Login

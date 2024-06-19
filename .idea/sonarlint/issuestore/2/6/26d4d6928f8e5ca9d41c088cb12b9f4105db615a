@@ -1,0 +1,11 @@
+
+•
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(±ÌÏ»8ÚÌ÷‚2J$36443349-56be-45c1-a8b3-b14f0822a282
+
+java:S1104"SMake options a static final constant or non-public and provide accessors if needed.(è²ÓãJ$6f372f28-b694-4fef-be77-7a0456ea6e1d
+o
+java:S1444",Make this "public static driver" field final(±ÌÏ»8ŸÚÌ÷‚2J$414f9178-58f1-4b8c-8800-dc2f72091391
+³
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÎÚ€J$b79e6ae6-f23b-4a3a-a2d1-b8723968aa64
+w
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(ÓÉŒÏşÿÿÿÿJ$e0883494-b8c7-4ed1-bdbf-1aa6673de65b

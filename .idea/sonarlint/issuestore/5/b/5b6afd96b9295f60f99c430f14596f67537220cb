@@ -1,0 +1,14 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úşÿøÿÿÿÿJ$b13c54ef-e1fd-4d8d-9eac-3251fd91b165
+
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(±ÌÏ»J$40efaf62-5d33-488a-aefe-fea5ea0406d5
+
+java:S1104"SMake options a static final constant or non-public and provide accessors if needed.(è²ÓãJ$577515e9-30c7-4e33-9257-f90098832b77
+h
+java:S1444",Make this "public static driver" field final(±ÌÏ»J$e0d2af67-9268-4f3c-bcfe-4bb8dcaef88f
+q
+java:S2209"5Change this instance-reference to a static reference.(’àéˆJ$c7ad0007-658f-421b-98e3-b17ed1fad986
+³
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÎÚ€J$19be464b-f52b-41b5-b86d-57410b2e1bc7
+w
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(ÓÉŒÏşÿÿÿÿJ$35d9b135-5a75-4f4f-b260-1c418472033d
